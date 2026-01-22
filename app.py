@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 import pickle
 from pathlib import Path
-import xgboost as xgb
 from sklearn.preprocessing import LabelEncoder
 
 
